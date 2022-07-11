@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27170171320",
+    "project_id": "direct-obelisk-339520",
+    "storage_bucket": "direct-obelisk-339520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27170171320:android:7287a4413cbcd223e0074d",
+        "android_client_info": {
+          "package_name": "com.joe.loop_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27170171320-l3b624o1p5bs8ee8cg3e3k9coc9ckj7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOfKtB9MYdjs2Uy3JkHGQNitGZU6pnm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27170171320-l3b624o1p5bs8ee8cg3e3k9coc9ckj7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
